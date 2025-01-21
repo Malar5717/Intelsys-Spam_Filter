@@ -188,3 +188,9 @@ st.metric(label="Model Accuracy", value="97.5%", delta=None,)
 
 # RESULT:
 This project detects whether an email is spam using the Multinomial Naive Bayes algorithm and displays the results on a user-friendly Streamlit web app.
+
+
+## Live Demo
+Check out the live version of the app here:  
+https://malar5717-intelsys-spam-filter-app-oln8o7.streamlit.app/
+
