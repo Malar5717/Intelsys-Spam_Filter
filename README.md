@@ -191,6 +191,6 @@ This project detects whether an email is spam using the Multinomial Naive Bayes 
 
 
 ## Live:
-Check out the live version of the app here:  
+Check out the live version here:  
 https://malar5717-intelsys-spam-filter-app-oln8o7.streamlit.app/
 
